@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aafiya Farveen</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aafiya-farveen&label=Profile%20views&color=0e75b6&style=flat" alt="aafiya-farveen" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aafiya-farveen&theme=" alt="aafiya-farveen" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning and It's Techniques**
 - 💬 Ask me about **Text Augmentation**
